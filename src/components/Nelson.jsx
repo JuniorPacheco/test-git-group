@@ -7,9 +7,9 @@ const Nelson = () => {
       <h2 className='text-3xl font-bold text-center'>Hobbies:</h2>
       <ul>
         <li className='bx bxs-user-check'>Football</li>
-        <li>Tenis</li>
-        <li>Game Computer</li>
-        <li>Programming</li>
+        <li className='bx bxs-user-check'>Tenis</li>
+        <li className='bx bxs-user-check'>Game Computer</li>
+        <li className='bx bxs-user-check'>Programming</li>
       </ul>
     </article>
   )
